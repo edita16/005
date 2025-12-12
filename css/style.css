@@ -40,7 +40,62 @@ header {
 .m-right {
     margin: 64px;
 }
+
 .m-riht-shadow {
     text-shadow: 4px 4px 4px #000000CC;
 
+}
+
+section {
+    width: 1440px;
+    margin: auto;
+    background-color: #D4F3F0;
+    padding: 80px 130px;
+}
+
+.main-img {
+    vertical-align: top;
+    margin-right: 114px;
+}
+
+.section-article {
+    display: inline-block;
+    width: 460px;
+    vertical-align: top;
+}
+
+.section-title {
+    font-weight: 700;
+    font-style: Italic;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0.5%;
+    color: #06686E;
+    margin-bottom: 32px;
+
+}
+
+.section-p {
+    font-weight: 400;
+    font-style: Italic;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.5%;
+    text-align: justify;
+    color: #06686E;
+    margin-bottom: 42px;
+}
+
+.section-button {
+width: 146px;
+height: 48px;
+    background-color: #2A9D8F;
+    border: none;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
 }
